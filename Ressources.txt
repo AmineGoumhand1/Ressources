@@ -1,1 +1,2 @@
 https://www.linode.com/docs/guides/linux-defense-evasion-hiding-linux-processes/
+https://stackoverflow.com/questions/2894466/xss-attack-to-bypass-htmlspecialchars-function-in-value-attribute
